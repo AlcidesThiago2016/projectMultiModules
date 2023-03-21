@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/project-parent/controller/controller.iml" filepath="$PROJECT_DIR$/project-parent/controller/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-parent/core/core.iml" filepath="$PROJECT_DIR$/project-parent/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project MultiModules.iml" filepath="$PROJECT_DIR$/.idea/project MultiModules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-parent/project-parent.iml" filepath="$PROJECT_DIR$/project-parent/project-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-parent/service/service.iml" filepath="$PROJECT_DIR$/project-parent/service/service.iml" />
+    </modules>
+  </component>
+</project>
